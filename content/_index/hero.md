@@ -19,7 +19,7 @@ title = "ADC"
 
 [[buttons]]
   text = "Subscribe to our mailing list"
-  url = "#"
+  url = "http://eepurl.com/c3wmE1"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
@@ -29,6 +29,6 @@ title = "ADC"
 
 [[buttons]]
   text = "Find out about events"
-  url = "https://www.facebook.com/appdevelopersclubumn/"
+  url = "https://calendar.google.com/calendar?cid=YXBwZGV2ZWxAdW1uLmVkdQ"
   color = "success"
 +++

@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "ADC-UMN.github.io"
 languageCode = "en-us"
 title = "App Developers Club"
 theme = "syna"
