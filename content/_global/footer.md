@@ -17,3 +17,7 @@ menu_title = "More links"
 ### App Developers Club
 
 Now hosting Unity, web development, React Native, and flask workshops and tutorials!
+
+##### Interested in collaborating?
+
+Contact us: appdevel@umn.edu

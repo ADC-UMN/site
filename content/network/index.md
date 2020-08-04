@@ -2,7 +2,7 @@
 fragment = "item"
 date = "2017-10-04"
 weight = 110
-background = "dark"
+background = "light"
 align = "left"
 
 title = "Network"

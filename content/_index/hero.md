@@ -1,16 +1,17 @@
 +++
 fragment = "hero"
-#disabled = true
+disabled = true
 date = "2016-09-07"
 weight = 50
-background = "light" # can influence the text color
+#background = "light" # can influence the text color
+backgound = "light"
 particles = true
 
 title = "ADC"
 #subtitle = "App Developers Club UMN"
 
-[header]
-  image = "app-development-lifecycle.jpg"
+#[header]
+#  image = "app-development-lifecycle.jpg"
 
 [asset]
   image = "ADC_Logo_White.png"
@@ -21,11 +22,6 @@ title = "ADC"
   text = "Subscribe to our mailing list"
   url = "http://eepurl.com/c3wmE1"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
-
-[[buttons]]
-  text = "Contact Us"
-  url = "mailto:appdevel@umn.edu"
-  color = "primary"
 
 [[buttons]]
   text = "Find out about events"

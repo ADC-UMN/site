@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "ADC-UMN.github.io"
+baseURL = "https://ADC-UMN.github.io"
 languageCode = "en-us"
 title = "App Developers Club"
 theme = "syna"
@@ -53,10 +53,13 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
+    #primary = "#00838F"
+    primary = "#73cbff" # light blue
+    #secondary = "#868e96"
+    secondary = "#f27200" # orange
     success = "#008f54"
-    info = "#00c9dc"
+    #info = "#00c9dc"
+    info = "#0086bd" # dark blue
     warning = "#fdf314"
     danger = "#dc1200"
     light = "#f8f9fa"
@@ -92,11 +95,11 @@ lastmod = ["lastmod", ":git", "date"]
 #   name = "Tiny Link"
 #   weight = 30
 # 
-# [[menu.copyright_footer]]
-#   url = "/about"
-#   name = "About Us"
-#   weight = 10
-# 
+#[[menu.copyright_footer]]
+#  url = "mailto:appdevel@umn.edu"
+#  name = "email"
+#  weight = 10
+
 # [[menu.copyright_footer]]
 #   url = "#"
 #   name = "Another Link"
