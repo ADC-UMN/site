@@ -17,10 +17,10 @@ title = "ADC"
 [[buttons]]
   text = "Subscribe to our mailing list"
   url = "http://eepurl.com/c3wmE1"
-  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Find out about events"
-  url = "https://calendar.google.com/calendar?cid=YXBwZGV2ZWxAdW1uLmVkdQ"
-  color = "dark"
+  text = "Join our Discord"
+  url = "https://www.discord.gg/XCqJEbv"
+  color = "secondary"
 +++
