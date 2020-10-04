@@ -29,7 +29,7 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
 
 [[rows]]
     [[rows.values]]
-        header = "Unity Chess Workshop"
+        header = "Unity Chess Part 1"
 
     [[rows.values]]
     	text = "Wed, Sep 23 5-6pm"
@@ -49,7 +49,7 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
 
 [[rows]]
     [[rows.values]]
-        header = "Unity Chess Part 2"
+        header = "Unity Chess Part 2/Community Game Part 1"
 
     [[rows.values]]
     	text = "Wed, Oct 7 5-6pm"
@@ -69,7 +69,7 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
 
 [[rows]]
     [[rows.values]]
-        header = "Unity Chess Part 3"
+        header = "Unity Community Game Part 2"
 
     [[rows.values]]
     	text = "Wed, Oct 21 5-6pm"
@@ -89,7 +89,7 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
 
 [[rows]]
     [[rows.values]]
-        header = "Unity Chess Part 4"
+        header = "Unity Community Game Part 3"
 
     [[rows.values]]
 	    text = "Wed, Nov 4 5-6pm"
