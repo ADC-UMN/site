@@ -14,6 +14,6 @@ subtitle= "Nathaniel Budijono"
 
 **Languages**: Python, JavaScript
 
-**Technologies**: Flask, React, React Native
+**Technologies**: Flask, React, React Native, SocketIO
 
-**Interests**: Machine Learning, Web Games, eating seafood
+**Interests**: Machine Learning, Web Games, trivia, eating seafood
