@@ -5,7 +5,7 @@ weight = 130
 background = "primary"
 align = "right"
 
-title = "Workshop Leader, Webmaster"
+title = "Education Director, Webmaster"
 subtitle= "Nathaniel Budijono"
 
 [asset]
@@ -16,4 +16,4 @@ subtitle= "Nathaniel Budijono"
 
 **Technologies**: Flask, React, React Native, SocketIO
 
-**Interests**: Machine Learning, Web Games, trivia, eating seafood
+**Interests**: Machine Learning, Web games, trivia, eating seafood

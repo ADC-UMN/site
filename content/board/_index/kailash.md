@@ -5,7 +5,7 @@ weight = 130
 background = "primary"
 align = "right"
 
-title = "Finance Officer"
+title = "Co-vice President"
 subtitle= "Kailash Kalyanasundaram"
 
 [asset]

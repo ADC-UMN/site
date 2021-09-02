@@ -5,7 +5,7 @@ weight = 130
 background = "primary"
 align = "right"
 
-title = "Communications Officer"
+title = "Co-vice President"
 subtitle= "Joy Seok"
 
 [asset]

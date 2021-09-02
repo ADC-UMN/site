@@ -1,11 +1,11 @@
 +++
 fragment = "item"
 date = "2017-10-04"
-weight = 130
+weight = 110
 background = "primary"
 align = "right"
 
-title = "Event Coordinator"
+title = "President"
 subtitle= "Jeevan Prakash"
 
 [asset]
