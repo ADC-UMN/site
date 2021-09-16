@@ -26,6 +26,6 @@ title = "ADC"
 
 [[buttons]]
   text = "Apply to join our board"
-  url = "https://forms.gle/T7h8wqacVCPpxAJbA"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLScD4OVkTszUMPuRGAGLcDQHBWIi5KTr0dYLDkTyfHbgzt_jzw/viewform"
   color = "success"
 +++
