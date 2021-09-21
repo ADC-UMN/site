@@ -32,50 +32,50 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         header = "Multiplayer trivia game part 1: Setting up your environment"
 
     [[rows.values]]
-    	text = "Tue, Sep 28 6:30-7:30pm"    
+    	text = "Tue, Sep 28 5-6pm"    
 
     [[rows.values]]
-        text = "Tate Hall 105"
+        text = "Tate Hall B50"
 
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 2: HTML, CSS, and Jinja templating"
 
     [[rows.values]]
-    	text = "Tue, Oct 5 6:30-7:30pm"
+    	text = "Tue, Oct 5 5-6pm"
 
     [[rows.values]]
-        text = "Tate Hall 105"
+        text = "Tate Hall B50"
 
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 3: SocketIO"
 
     [[rows.values]]
-    	text = "Tue, Oct 12 6:30-7:30pm"    
+    	text = "Tue, Oct 12 5-6pm"    
 
     [[rows.values]]
-        text = "Tate Hall 105"
+        text = "Tate Hall B50"
 
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 4: More SocketIO"
 
     [[rows.values]]
-    	text = "Tue, Oct 19 6:30-7:30pm"
+    	text = "Tue, Oct 19 5-6pm"
 
     [[rows.values]]
-        text = "Tate Hall 105"
+        text = "Tate Hall B50"
 
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 5: Open source fest"
 
     [[rows.values]]
-    	text = "Tue, Oct 26 6:30-7:30pm"    
+    	text = "Tue, Oct 26 5-6pm"    
 
     [[rows.values]]
-        text = "Tate Hall 105"
+        text = "Tate Hall B50"
 
 [[rows]]
     [[rows.values]]
