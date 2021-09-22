@@ -17,6 +17,12 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[header.values]]
         text = "Place"
 
+    [[header.values]]
+        text = "Guide"
+
+    [[header.values]]
+        text = "Recording"
+
 [[rows]]
     [[rows.values]]
         header = "Kickoff: Play a multiplayer trivia game that you'll learn how to make later!"
@@ -26,6 +32,13 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
     [[rows.values]]
         text = "Bruininks Hall 230"
+    
+    [[rows.values]]
+        button = "Slides"
+        url = "/kickoff.pdf"
+    
+    [[rows.values]]
+        text = "N/A"
 
 [[rows]]
     [[rows.values]]
@@ -37,6 +50,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         text = "Tate Hall B50"
 
+    [[rows.values]]
+        button = "Tutorial"
+        url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-0.md"
+
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 2: HTML, CSS, and Jinja templating"
@@ -46,6 +63,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
     [[rows.values]]
         text = "Tate Hall B50"
+    
+    [[rows.values]]
+        button = "Tutorial"
+        url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-1.md"
 
 [[rows]]
     [[rows.values]]
@@ -53,9 +74,13 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
     [[rows.values]]
     	text = "Tue, Oct 12 5-6pm"    
-
+    
     [[rows.values]]
         text = "Tate Hall B50"
+
+    [[rows.values]]
+        button = "Tutorial"
+        url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-2.md"
 
 [[rows]]
     [[rows.values]]
@@ -66,6 +91,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
     [[rows.values]]
         text = "Tate Hall B50"
+    
+    [[rows.values]]
+        button = "Tutorial"
+        url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-3.md"
 
 [[rows]]
     [[rows.values]]
@@ -77,7 +106,13 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         text = "Tate Hall B50"
 
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
+
 [[rows]]
     [[rows.values]]
-        header = "More workshops coming soon!"
+        header = "More workshops (iOS, Mac, React) coming soon!"
 +++
