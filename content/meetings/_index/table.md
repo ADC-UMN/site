@@ -62,7 +62,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     	text = "Tue, Oct 5 5-6pm"
 
     [[rows.values]]
-        text = "Tate Hall B50"
+        text = "Tate Hall B20"
     
     [[rows.values]]
         button = "Tutorial"
