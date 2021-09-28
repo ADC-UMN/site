@@ -48,7 +48,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     	text = "Tue, Sep 28 5-6pm"    
 
     [[rows.values]]
-        text = "Tate Hall B50"
+        text = "Tate Hall B20"
 
     [[rows.values]]
         button = "Tutorial"
@@ -76,7 +76,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     	text = "Tue, Oct 12 5-6pm"    
     
     [[rows.values]]
-        text = "Tate Hall B50"
+        text = "Tate Hall B20"
 
     [[rows.values]]
         button = "Tutorial"
@@ -90,7 +90,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     	text = "Tue, Oct 19 5-6pm"
 
     [[rows.values]]
-        text = "Tate Hall B50"
+        text = "Tate Hall B20"
     
     [[rows.values]]
         button = "Tutorial"
@@ -104,7 +104,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     	text = "Tue, Oct 26 5-6pm"    
 
     [[rows.values]]
-        text = "Tate Hall B50"
+        text = "Tate Hall B20"
 
     [[rows.values]]
         text = "N/A"
