@@ -119,10 +119,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
 	header = "Postman: APIs 101"
 
-    [[row.values]]
+    [[rows.values]]
 	text = "Tue, Nov 2 5-6pm"
 
-    [[row.values]]
+    [[rows.values]]
 	text = "Tate Hall B20"
 
 [[rows]]
