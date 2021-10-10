@@ -54,9 +54,6 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-0.md"
 
-    [[rows.values]]
-        text = "N/A"
-
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 2: HTML, CSS, and Jinja templating"
@@ -70,6 +67,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-1.md"
+
+    [[rows.values]]
+        button = "YouTube"
+        url = "https://www.youtube.com/watch?v=HjtkQx9RG50"
 
 [[rows]]
     [[rows.values]]
@@ -117,13 +118,17 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-	header = "Postman: APIs 101"
+	header = "Guest Speaker Event: Postman API 101!"
 
     [[rows.values]]
-	text = "Tue, Nov 2 5-6pm"
+	    text = "Tue, Nov 2 5-6pm"
 
     [[rows.values]]
-	text = "Tate Hall B20"
+	    text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "Slides"
+        url = "https://docs.google.com/presentation/d/1WCzt5UCHBURWDb61iTwtrGmWWXu56Gf3MllJe95TP4s/edit#slide=id.gb2349a47d9_2_103"
 
 [[rows]]
     [[rows.values]]
