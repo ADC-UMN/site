@@ -86,6 +86,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-2.md"
 
+    [[rows.values]]
+        button = "YouTube"
+        url = "https://youtu.be/3a-UH6aOLog"
+
 [[rows]]
     [[rows.values]]
         header = "Multiplayer trivia game part 4: More SocketIO"
