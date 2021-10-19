@@ -5,7 +5,7 @@ weight = 110
 background = "primary"
 
 title = "Event Schedule"
-subtitle = "Check here to see our event schedule. Join the discord for the latest event updates. Want a sneak peak? Check out our GitHub."
+subtitle = "Check here to see our event schedule. Join the discord for the latest event updates. Want a sneak peak? Check out our [GitHub](https://github.com/ADC-UMN)."
 
 [header]
     [[header.values]]
@@ -25,7 +25,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Kickoff: Play a multiplayer trivia game that you'll learn how to make later!"
+        header = "Kickoff: Play a [multiplayer trivia game](https://z.umn.edu/adcgame) that you'll learn how to make later!"
 
     [[rows.values]]
     	text = "Tue, Sep 21 7pm"    
@@ -53,6 +53,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-0.md"
+
+    [[rows.values]]
+        button = "YouTube"
+        url = "https://youtu.be/0Kdp6eqp0pg"
 
 [[rows]]
     [[rows.values]]
@@ -131,7 +135,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 	    text = "Tate Hall B20"
 
     [[rows.values]]
-        text = "Slides"
+        button = "Slides"
         url = "https://docs.google.com/presentation/d/1WCzt5UCHBURWDb61iTwtrGmWWXu56Gf3MllJe95TP4s/edit#slide=id.gb2349a47d9_2_103"
 
 [[rows]]
