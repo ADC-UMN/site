@@ -108,7 +108,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-3.md"
     [[rows.values]]
-        text = "N/A"
+        button = "YouTube"
+	url = "https://youtu.be/m-L6cH5aH2E"
 
 [[rows]]
     [[rows.values]]
@@ -139,6 +140,9 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         button = "Slides"
         url = "https://docs.google.com/presentation/d/1WCzt5UCHBURWDb61iTwtrGmWWXu56Gf3MllJe95TP4s/edit#slide=id.gb2349a47d9_2_103"
+
+    [[rows.values]]
+	text = "N/A"
 
 [[rows]]
     [[rows.values]]
