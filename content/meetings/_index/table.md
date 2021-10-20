@@ -42,7 +42,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Multiplayer trivia game part 1: Setting up your environment"
+        header = "Multiplayer trivia game part 1: Setting up your environment!"
 
     [[rows.values]]
     	text = "Tue, Sep 28 5-6pm"    
@@ -60,7 +60,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Multiplayer trivia game part 2: HTML, CSS, and Jinja templating"
+        header = "Multiplayer trivia game part 2: HTML, CSS, and Jinja templating!"
 
     [[rows.values]]
     	text = "Tue, Oct 5 5-6pm"
@@ -78,7 +78,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Multiplayer trivia game part 3: SocketIO"
+        header = "Multiplayer trivia game part 3: SocketIO!"
 
     [[rows.values]]
     	text = "Tue, Oct 12 5-6pm"    
@@ -96,7 +96,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Multiplayer trivia game part 4: More SocketIO"
+        header = "Multiplayer trivia game part 4: More SocketIO!"
 
     [[rows.values]]
     	text = "Tue, Oct 19 5-6pm"
@@ -107,10 +107,12 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         button = "Tutorial"
         url = "https://github.com/ADC-UMN/multiplayer-trivia-game/blob/master/part-3.md"
+    [[rows.values]]
+        text = "N/A"
 
 [[rows]]
     [[rows.values]]
-        header = "Multiplayer trivia game part 5: Open source fest"
+        header = "Multiplayer trivia game part 5: Open source fest!"
 
     [[rows.values]]
     	text = "Tue, Oct 26 5-6pm"    
@@ -140,5 +142,77 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "More workshops (iOS, Mac, React) coming soon!"
+        header = "iOS Workshop part 1: TBD!"
+
+    [[rows.values]]
+    	text = "Tue, Nov 9 5-6pm"    
+
+    [[rows.values]]
+        text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
+[[rows]]
+    [[rows.values]]
+        header = "iOS Workshop part 2: TBD!"
+
+    [[rows.values]]
+    	text = "Tue, Nov 16 5-6pm"    
+
+    [[rows.values]]
+        text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
+[[rows]]
+    [[rows.values]]
+        header = "Study/Hangout/Thanksgiving Fun Event"
+
+    [[rows.values]]
+    	text = "Tue, Nov 23 5-6pm"    
+
+    [[rows.values]]
+        text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
+[[rows]]
+    [[rows.values]]
+        header = "iOS Workshop part 3: TBD!"
+
+    [[rows.values]]
+    	text = "Tue, Nov 30 5-6pm"    
+
+    [[rows.values]]
+        text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
+[[rows]]
+    [[rows.values]]
+        header = "iOS Workshop part 4: TBD!"
+
+    [[rows.values]]
+    	text = "Tue, Dec 7 5-6pm"    
+
+    [[rows.values]]
+        text = "Tate Hall B20"
+
+    [[rows.values]]
+        text = "N/A"
+    
+    [[rows.values]]
+        text = "N/A"
 +++
