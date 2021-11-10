@@ -155,10 +155,11 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = "N/A"
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/15Dg0tO_DddAoB5Ej79bUsvmUdiaft6ph4InGxW-DklI/edit#slide=id.p"
     
     [[rows.values]]
-        text = "N/A"
+        text = ""
 [[rows]]
     [[rows.values]]
         header = "iOS Workshop part 2: data modelling and encoding of objects!"
@@ -170,10 +171,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = "N/A"
+        text = ""
     
     [[rows.values]]
-        text = "N/A"
+        text = ""
 [[rows]]
     [[rows.values]]
         header = "Study/Hangout/Thanksgiving Fun Event"
@@ -200,10 +201,10 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = "N/A"
+        text = ""
     
     [[rows.values]]
-        text = "N/A"
+        text = ""
 [[rows]]
     [[rows.values]]
         header = "December Developer Mixer: meet potential project collaborators and talk about Web3!"
@@ -231,8 +232,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = "N/A"
+        text = ""
     
     [[rows.values]]
-        text = "N/A"
+        text = ""
 +++
