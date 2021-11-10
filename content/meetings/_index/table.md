@@ -146,7 +146,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "iOS Workshop part 1: TBD!"
+        header = "iOS Workshop part 1: Starting recipe app and learning Swift!"
 
     [[rows.values]]
     	text = "Tue, Nov 9 5-6pm"    
@@ -161,7 +161,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "N/A"
 [[rows]]
     [[rows.values]]
-        header = "iOS Workshop part 2: TBD!"
+        header = "iOS Workshop part 2: data modelling and encoding of objects!"
 
     [[rows.values]]
     	text = "Tue, Nov 16 5-6pm"    
@@ -191,7 +191,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "N/A"
 [[rows]]
     [[rows.values]]
-        header = "iOS Workshop part 3: TBD!"
+        header = "iOS Workshop part 3: Creating the home page of the app!"
 
     [[rows.values]]
     	text = "Tue, Nov 30 5-6pm"    
@@ -206,7 +206,23 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "N/A"
 [[rows]]
     [[rows.values]]
-        header = "iOS Workshop part 4: TBD!"
+        header = "December Developer Mixer: meet potential project collaborators and talk about Web3!"
+
+    [[rows.values]]
+        text = "Thurs, Dec 2 5-6pm"
+
+    [[rows.values]]
+        text = "Tate Hall B65"
+
+    [[rows.values]]
+        text = "N/A"
+
+    [[rows.values]]
+        text = "N/A"
+
+[[rows]]
+    [[rows.values]]
+        header = "iOS Workshop part 4: Adding recipes and recipe details!"
 
     [[rows.values]]
     	text = "Tue, Dec 7 5-6pm"    
