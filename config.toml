@@ -127,3 +127,9 @@ lastmod = ["lastmod", ":git", "date"]
   name = "linkedin"
   pre = "fab fa-linkedin"
   url = "https://www.linkedin.com/company/app-developers-club/about/"
+
+[[menu.footer_social]]
+  weight = 50
+  name = "instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/appdev_umn/"
