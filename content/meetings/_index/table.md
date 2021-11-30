@@ -171,10 +171,13 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1VXBzylZTNUGBvpwRYVNRP45UEcmuOTj5BA6ZirHPMc4/edit?usp=sharing"
     
     [[rows.values]]
-        text = ""
+        button = "Recording"
+        url = "https://drive.google.com/file/d/1mSm6QyTbUWxFGS0OArSjMHbrv5TKxW58/view?usp=sharing"
+
 [[rows]]
     [[rows.values]]
         header = "Study/Hangout/Thanksgiving Fun Event"
@@ -201,7 +204,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1CssuEmvHuLDdHQXkqhMpHWUAA21wg7mjkXbPEkFy-v0/edit?usp=sharing"
     
     [[rows.values]]
         text = ""
