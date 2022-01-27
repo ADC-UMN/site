@@ -1,11 +1,12 @@
+
 +++
 fragment = "table"
 date = "2020-08-11"
-weight = 110
+weight = 120
 background = "primary"
 
-title = "Event Schedule"
-subtitle = "Check here to see our event schedule. Join the discord for the latest event updates. Want a sneak peak? Check out our [GitHub](https://github.com/ADC-UMN)."
+title = "Fall Semester"
+subtitle = ""
 
 [header]
     [[header.values]]
@@ -236,7 +237,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall B20"
 
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1Gz0KrYRL7omghuRHn329YUB8-4W5uyrpAaw1Ezrpt2c/edit?usp=sharing"
     
     [[rows.values]]
         text = ""
