@@ -86,10 +86,12 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://github.com/ADC-UMN/todotorial/blob/master/slides/part-2.pdf"
 
     [[rows.values]]
-        text = ""
+        button = "YouTube"
+        url = "https://youtu.be/z3w7ewUdmqE"
 
 [[rows]]
     [[rows.values]]
