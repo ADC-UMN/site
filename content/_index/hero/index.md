@@ -16,7 +16,7 @@ title = "ADC"
 
 [[buttons]]
   text = "Subscribe to our mailing list"
-  url = "http://eepurl.com/c3wmE1"
+  url = "http://eepurl.com/hUQVg1"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
