@@ -104,10 +104,12 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://github.com/ADC-UMN/todotorial/blob/master/slides/part-3.pdf"
 
     [[rows.values]]
-        text = ""
+        button = "YouTube"
+        url = "https://youtu.be/zayn97z2mx0"
 
 [[rows]]
     [[rows.values]]
@@ -125,4 +127,131 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
     [[rows.values]]
         text = ""
 
+[[rows]]
+    [[rows.values]]
+        header = "March Developer Mixer: Meet potential project collaborators and talk about WebAssembly!"
+
+    [[rows.values]]
+        text = "Tues, Mar 1 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = "N/A"
+
+    [[rows.values]]
+        text = "N/A"
+
+[[rows]]
+    [[rows.values]]
+        header = "Flutter Workshop Series 1: Intro to Flutter!"
+
+    [[rows.values]]
+        text = "Tues, Mar 15 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "Flutter Workshop Series 2: Flutter UI!"
+
+    [[rows.values]]
+        text = "Tues, Mar 22 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "Flutter Workshop Series 3: More Flutter UI!"
+
+    [[rows.values]]
+        text = "Tues, Mar 29 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "Flutter Workshop Series 4: Additional Functionality!"
+
+    [[rows.values]]
+        text = "Tues, Apr 5 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "April Developer Mixer: Meet potential project collaborators and talk about PWAs!"
+
+    [[rows.values]]
+        text = "Tues, Apr 12 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "Hugo Website Builder Workshop: Make a portfolio website!"
+
+    [[rows.values]]
+        text = "Tues, Apr 19 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "Hugo Website Builder Workshop: Other Hugo features!"
+
+    [[rows.values]]
+        text = "Tues, Apr 26 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        text = ""
+
+    [[rows.values]]
+        text = ""
 +++
