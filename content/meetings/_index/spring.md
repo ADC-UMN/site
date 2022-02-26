@@ -91,7 +91,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
     [[rows.values]]
         button = "YouTube"
-        url = "https://youtu.be/z3w7ewUdmqE"
+        url = "https://youtu.be/mkJJ_0f1jv4"
 
 [[rows]]
     [[rows.values]]
