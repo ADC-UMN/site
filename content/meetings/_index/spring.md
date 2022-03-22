@@ -227,7 +227,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Hugo Website Builder Workshop: Make a portfolio website!"
+        header = "Flutter Workshop Series 5: Finishing touches"
 
     [[rows.values]]
         text = "Tues, Apr 19 6-7pm"
@@ -243,7 +243,7 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
 
 [[rows]]
     [[rows.values]]
-        header = "Hugo Website Builder Workshop: Other Hugo features!"
+        header = "Hugo Website Builder Workshop: Make a portfolio website!"
 
     [[rows.values]]
         text = "Tues, Apr 26 6-7pm"
