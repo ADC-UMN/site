@@ -86,14 +86,14 @@ lastmod = ["lastmod", ":git", "date"]
 #  weight = 10
 
 [[menu.footer]]
-  url = "https://www.discord.gg/XCqJEbv"
-  name = "Discord"
-  weight = 30
-
-[[menu.footer]]
   url = "https://calendar.google.com/calendar?cid=YXBwZGV2ZWxAdW1uLmVkdQ"
   name = "Google Calendar"
   weight = 30
+
+[[menu.footer]]
+  url = "http://eepurl.com/hUQVg1"
+  name = "Mailing List"
+  weight = 20
 # 
 # [[menu.footer]]
 #   url = "#"
@@ -109,6 +109,12 @@ lastmod = ["lastmod", ":git", "date"]
 #   url = "#"
 #   name = "Another Link"
 #   weight = 30
+
+[[menu.footer_social]]
+  weight = 10
+  name = "discord"
+  pre = "fab fa-discord"
+  url = "https://www.discord.gg/XCqJEbv"
 
 [[menu.footer_social]]
   weight = 20
@@ -133,3 +139,9 @@ lastmod = ["lastmod", ":git", "date"]
   name = "instagram"
   pre = "fab fa-instagram"
   url = "https://www.instagram.com/appdev_umn/"
+
+[[menu.footer_social]]
+  weight = 60
+  name = "youtube"
+  pre = "fab fa-youtube"
+  url = "https://www.youtube.com/channel/UC69SHPWie_SrO-Gtpr8vHuw"

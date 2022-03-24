@@ -15,4 +15,4 @@ title = "Coding"
   image = "kickoff.jpg"
 +++
 
-We build apps. Here at App Developers Club, you will get support and resources for developing web and mobile apps you always dreamed of, either independently or in teams. Contact us for funding you may need as you develop your own apps. We run workshops for beginners to learn to create apps from no prior experience.
+We build apps. Here at App Developers Club, you will get support and resources for developing web and mobile apps you always dreamed of, either independently or in teams. We run workshops for beginners to learn to create apps from no prior experience.

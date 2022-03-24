@@ -16,7 +16,7 @@ menu_title = "More links"
 
 ### App Developers Club
 
-Now hosting Unity, web development, React Native, and flask workshops and tutorials!
+Flask, Unity, Flutter, web development, and React Native workshops and tutorials!
 
 ##### Interested in collaborating?
 

@@ -156,7 +156,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1XF8sm2NxSpO81IlxPcSUKbFV1RQjU7XvdJRXoTb7hsg/edit"
 
     [[rows.values]]
         text = ""
@@ -172,10 +173,12 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1XF8sm2NxSpO81IlxPcSUKbFV1RQjU7XvdJRXoTb7hsg/edit"
 
     [[rows.values]]
-        text = ""
+        button = "YouTube"
+        url = "https://youtu.be/QdbUnxJ0i5Q"
 
 [[rows]]
     [[rows.values]]
@@ -188,7 +191,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1XF8sm2NxSpO81IlxPcSUKbFV1RQjU7XvdJRXoTb7hsg/edit"
 
     [[rows.values]]
         text = ""
@@ -204,23 +208,8 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
-
-    [[rows.values]]
-        text = ""
-
-[[rows]]
-    [[rows.values]]
-        header = "April Developer Mixer: Meet potential project collaborators and talk about PWAs!"
-
-    [[rows.values]]
-        text = "Tues, Apr 12 6-7pm"
-
-    [[rows.values]]
-        text = "Tate Hall 120"
-    
-    [[rows.values]]
-        text = ""
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1XF8sm2NxSpO81IlxPcSUKbFV1RQjU7XvdJRXoTb7hsg/edit"
 
     [[rows.values]]
         text = ""
@@ -230,16 +219,33 @@ subtitle = "Check here to see our event schedule. Join the discord for the lates
         header = "Flutter Workshop Series 5: Finishing touches"
 
     [[rows.values]]
+        text = "Tues, Apr 12 6-7pm"
+
+    [[rows.values]]
+        text = "Tate Hall 120"
+    
+    [[rows.values]]
+        button = "Slides"
+        url = "https://docs.google.com/presentation/d/1XF8sm2NxSpO81IlxPcSUKbFV1RQjU7XvdJRXoTb7hsg/edit"
+
+    [[rows.values]]
+        text = ""
+
+[[rows]]
+    [[rows.values]]
+        header = "April Developer Mixer: Meet potential project collaborators and talk about PWAs!"
+
+    [[rows.values]]
         text = "Tues, Apr 19 6-7pm"
 
     [[rows.values]]
         text = "Tate Hall 120"
     
     [[rows.values]]
-        text = ""
+        text = "N/A"
 
     [[rows.values]]
-        text = ""
+        text = "N/A"
 
 [[rows]]
     [[rows.values]]

@@ -23,9 +23,4 @@ title = "ADC"
   text = "Join our Discord"
   url = "https://www.discord.gg/XCqJEbv"
   color = "secondary"
-
-[[buttons]]
-  text = "Apply to join our board"
-  url = "https://docs.google.com/forms/d/e/1FAIpQLScD4OVkTszUMPuRGAGLcDQHBWIi5KTr0dYLDkTyfHbgzt_jzw/viewform"
-  color = "success"
 +++
