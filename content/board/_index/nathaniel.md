@@ -16,4 +16,4 @@ subtitle= "Nathaniel Budijono"
 
 **Technologies**: Flask, React, React Native, SocketIO
 
-**Interests**: Machine learning, games, trivia, eating seafood
+**Interests**: Machine learning, games, trivia, eating foods that start with the letter 's'
