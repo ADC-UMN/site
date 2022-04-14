@@ -9,10 +9,13 @@ title = "Alumni"
 +++
 
 **Samira Champlin**
-Target
+Gap
 
 **Benjamin Chen**
 Amazon
 
 **Evan Tredal**
 Microsoft
+
+**Nathaniel Budijono**
+Infinite Campus
