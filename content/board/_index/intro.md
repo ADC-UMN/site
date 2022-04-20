@@ -10,4 +10,4 @@ subtitle = "Our board is committed to helping our members make connections in th
 
 Feel free to message us on the discord about our interests, advice for the computer science major, or feedback on our workshops. 
 
-We are accepting applications for new board members. If you are interested in being an App Development Instructor, Communications Officer, Events Coordinator, or Assistant Treasurer, please contact us on our [discord](https://www.discord.gg/XCqJEbv)!
+We are accepting applications for new board members. If you are interested in being an App Development Instructor please contact us on our [discord](https://www.discord.gg/XCqJEbv)!
